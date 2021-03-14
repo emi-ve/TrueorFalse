@@ -1,0 +1,13 @@
+C:\Users\Emily Venturino\Desktop\Coding\TrueOrFalse\TrueOrFalse\bin\Debug\netcoreapp3.1\TrueOrFalse.exe
+C:\Users\Emily Venturino\Desktop\Coding\TrueOrFalse\TrueOrFalse\bin\Debug\netcoreapp3.1\TrueOrFalse.deps.json
+C:\Users\Emily Venturino\Desktop\Coding\TrueOrFalse\TrueOrFalse\bin\Debug\netcoreapp3.1\TrueOrFalse.runtimeconfig.json
+C:\Users\Emily Venturino\Desktop\Coding\TrueOrFalse\TrueOrFalse\bin\Debug\netcoreapp3.1\TrueOrFalse.runtimeconfig.dev.json
+C:\Users\Emily Venturino\Desktop\Coding\TrueOrFalse\TrueOrFalse\bin\Debug\netcoreapp3.1\TrueOrFalse.dll
+C:\Users\Emily Venturino\Desktop\Coding\TrueOrFalse\TrueOrFalse\bin\Debug\netcoreapp3.1\TrueOrFalse.pdb
+C:\Users\Emily Venturino\Desktop\Coding\TrueOrFalse\TrueOrFalse\obj\Debug\netcoreapp3.1\TrueOrFalse.AssemblyInfoInputs.cache
+C:\Users\Emily Venturino\Desktop\Coding\TrueOrFalse\TrueOrFalse\obj\Debug\netcoreapp3.1\TrueOrFalse.AssemblyInfo.cs
+C:\Users\Emily Venturino\Desktop\Coding\TrueOrFalse\TrueOrFalse\obj\Debug\netcoreapp3.1\TrueOrFalse.csproj.CoreCompileInputs.cache
+C:\Users\Emily Venturino\Desktop\Coding\TrueOrFalse\TrueOrFalse\obj\Debug\netcoreapp3.1\TrueOrFalse.dll
+C:\Users\Emily Venturino\Desktop\Coding\TrueOrFalse\TrueOrFalse\obj\Debug\netcoreapp3.1\TrueOrFalse.pdb
+C:\Users\Emily Venturino\Desktop\Coding\TrueOrFalse\TrueOrFalse\obj\Debug\netcoreapp3.1\TrueOrFalse.genruntimeconfig.cache
+C:\Users\Emily Venturino\Desktop\Coding\TrueOrFalse\TrueOrFalse\obj\Debug\netcoreapp3.1\TrueOrFalse.csprojAssemblyReference.cache
